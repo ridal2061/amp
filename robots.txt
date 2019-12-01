@@ -1,9 +1,10 @@
-# Group 1
-User-agent: Googlebot
-Disallow: /nogooglebot/
+User-agent: Mediapartners-Google
+Disallow: 
 
-# Group 2
 User-agent: *
+Disallow: /search
 Allow: /
 
-Sitemap: http://www.example.com/sitemap.xml
+
+
+
